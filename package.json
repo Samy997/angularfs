@@ -8,7 +8,8 @@
     "test": "ng test",
     "lint": "ng lint",
     "e2e": "ng e2e",
-    "deploy": "gh-pages -d dist/angularfs"
+    "deploy": "gh-pages -d dist",
+    "clean": "gh-pages-clean"
   },
   "private": true,
   "dependencies": {
